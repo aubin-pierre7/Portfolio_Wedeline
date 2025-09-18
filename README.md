@@ -3,7 +3,7 @@
 Ce projet est un *portfolio personnel* developpe pour Wedeline.  
 Il permet de presenter son profil, ses competences ainsi que ses coordonnees de contact de maniere simple et elegante.  
 
-## 🚀 Technologies utilisees
+## Technologies utilisees
 - *HTML5*;  
 - *CSS3*; 
 - *BootstrapCSS*.   
