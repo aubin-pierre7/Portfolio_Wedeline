@@ -1,9 +1,9 @@
 # Portfolio - Wedeline
 
-Ce projet est un *portfolio personnel* développé pour Wedeline.  
-Il permet de présenter son profil, ses compétences ainsi que ses coordonnées de contact de manière simple et élégante.  
+Ce projet est un *portfolio personnel* developpe pour Wedeline.  
+Il permet de presenter son profil, ses competences ainsi que ses coordonnees de contact de maniere simple et elegante.  
 
-## 🚀 Technologies utilisées
+## 🚀 Technologies utilisees
 - *HTML5*;  
 - *CSS3*; 
 - *BootstrapCSS*.   
@@ -11,6 +11,6 @@ Il permet de présenter son profil, ses compétences ainsi que ses coordonnées 
 # Demo
 Lien du site en ligne: https://aubin-pierre7.github.io/Portfolio_Wedeline/
 
-##  Captures d'écran:  
+##  Captures d'ecran:  
 
 | ![Visuel](./Captures/1.png) | ![Visuel](./Captures/2.png) | ![Visuel](./Captures/3.png) | ![Visuel](./Captures/4.png) .
